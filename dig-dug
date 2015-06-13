@@ -2,7 +2,7 @@
 clear
 
 echo "what wbsite do you want to ping & lookup dns for?"
-read ans
+read $ans
 clear
 
 
